@@ -1,0 +1,178 @@
+C FORMATS (66 character limit)                                                
+C 1. BY EXPLICIT LOCATION                                 
+C N/S, LATITUDE, E/E, LONGITUDE, G/F/K, DEPTH, DATE, HR, D, P, GCR, SP 
+C N, XX.XXXXX, E, XXX.XXXX, F, XXXX.XXXX YYYY/MM/DD, HXX, DX, PXX, CX, SX
+C------------------- OR ---------------------------------
+C 2. USE AN AIRPORT ICAO CODE                                  
+C A, CODE, G/F, ALTITUDE, DATE, HOUR, DOSE, PARTICLE, GCR, SP                   
+C A, AAAAAA, F, XXXX.XXXX, YYYY/MM/DD, H0 to H24, DX, PXX, CX, SX          
+C------------------- OR ---------------------------------
+C 3. ADD A COMMENT
+C EVERY LINE ABOVE THE FIRST INSTANCE OF START OR BELOW THE FIRST STOP IS A COMMENT
+C BETWEEN START AND STOP, BEGIN A COMMENT LINE WITH A 'C '
+C LIMIT DATA LINES TO 66 CHARACTERS
+C
+C                           G/F/K
+C Input altitude units: atmospheric depth 'G' (g/sq.cm),
+C                       feet 'F', or 
+C                       kilometers, K 
+C
+C                            H##
+C      <0> average
+C      <1-24> hour of the day in UT+1  
+C
+C                            DOSE (D#) 
+C      <1> Particle Flux (Any rad but TOTAL, i.e., no P0)
+C          (TOTAL for P0 is total ion flux) 
+C      <2> ICRP PUB 103 EFFECTIVE DOSE
+C      <3> ICRP PUB 60 EFFECTIVE DOSE
+C      <4> ICRU H*(10) AMBIENT DOSE EQUIVALENT
+C      <5> WHOLE BODY ABSORBED DOSE
+C
+C                          RADIATION (P#)
+C      <0> TOTAL       <10> DEUTERONS   <20>F    <30>K 
+C      <1> NEUTRONS    <11> TRITONS     <21>Ne   <31>Ca
+C      <2> PHOTONS     <12> HELIONS     <22>Na   <32>Sc
+C      <3> ELECTRONS   <13> ALPHAS      <23>Mg   <33>Ti
+C      <4> POSITRONS   <14> Li          <24>Al   <34>V 
+C      <5> NEG. MUONS  <15> Be          <25>Si   <35>Cr
+C      <6> POS. MUONS  <16> B           <26>P    <36>Mn
+C      <7> PROTONS     <17> C           <27>S    <37>Fe
+C      <8> POS. PIONS  <18> N           <28>Cl         
+C      <9> NEG. PIONS  <19> O           <29>Ar         
+C      
+C                         GCR SPECTRUM (C#)
+C      <4> 2004 ISO/Nymmik GCR Local Interstellar Spectrum 
+C               modulated using adjusted CARI-6 heliocentric 
+C               potential (Other models available in CARI-7A.)
+C
+C                         SUPERPOSITION (S#)
+C      <0> Off (Transport nuclei using LAQGSM and CEM nuclei-nuclei
+C              collision models in MCNPX 2.7.0)(SUPERPOSITION is 
+C              always 'off' for CARI-7)
+C 
+START-------------------------------------------------
+C, ICRU Rep 84 quick comparison points
+C, ICRU SOL MIN
+N, 85.0000, E,  5.00, F, 31000.0 , 1998/01/00, H0, D4, P0, C4, S0
+N, 85.0000, E,  5.00, F, 35000.0 , 1998/01/00, H0, D4, P0, C4, S0
+N, 85.0000, E,  5.00, F, 39000.0 , 1998/01/00, H0, D4, P0, C4, S0
+N, 15.0000, E,  75.0, F, 31000.0 , 1998/01/00, H0, D4, P0, C4, S0
+N, 15.0000, E,  75.0, F, 35000.0 , 1998/01/00, H0, D4, P0, C4, S0
+N, 15.0000, E,  75.0, F, 39000.0 , 1998/01/00, H0, D4, P0, C4, S0
+C, ICRU SOL MAX
+N, 85.0000, E,  5.00, F, 31000.0 , 2002/01/00, H0, D4, P0, C4, S0
+N, 85.0000, E,  5.00, F, 35000.0 , 2002/01/00, H0, D4, P0, C4, S0
+N, 85.0000, E,  5.00, F, 39000.0 , 2002/01/00, H0, D4, P0, C4, S0
+N, 15.0000, E,  75.0, F, 31000.0 , 2002/01/00, H0, D4, P0, C4, S0
+N, 15.0000, E,  75.0, F, 35000.0 , 2002/01/00, H0, D4, P0, C4, S0
+N, 15.0000, E,  75.0, F, 39000.0 , 2002/01/00, H0, D4, P0, C4, S0
+C, Altitude profile high latitude QUICK TEST, ICRU Sol Min
+N, 85.0000, E,  5.0000, G, 1000. , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 900.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 700.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 500.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 300.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 200.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 125.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 100.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 77.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 50.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 30.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 20.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 15.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 10.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 5.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 2.0 , 1998/01/00, H0, D2, P0, C4, S0
+N, 85.0000, E,  5.0000, G, 1.0 , 1998/01/00, H0, D2, P0, C4, S0
+C, Altitude profile low latitude QUICK TEST, ICRU Sol Max
+N, 15.0000, E, 75.0000, G, 1000. , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E, 75.0000, G, 900.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E, 75.0000, G, 700.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E, 75.0000, G, 500.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E, 75.0000, G, 300.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E, 75.0000, G, 200.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E, 75.0000, G, 125.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.000, G, 100.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 77.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 50.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 30.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 20.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 15.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 10.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 5.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 2.0 , 2002/01/00, H0, D2, P0, C4, S0
+N, 15.0000, E,  75.0000, G, 1.0 , 2002/01/00, H0, D2, P0, C4, S0
+C Neutron flux profile near solar min, mid latitude
+N, 46.0000, E, 60.0000, G, 1 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 2 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 4 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 7 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 15 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 30 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 50 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 77 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 125 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 200 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 300 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 500 , 1998/03/00, H0, D1, P1, C4, S0
+N, 46.0000, E, 60.0000, G, 1000 , 1998/03/00, H0, D1, P1, C4, S0
+C, AIR-2 NEUTRON FLUX MEASUREMENTS 
+N, 53.9, W, 117.2, G, 56.0, 1997/06/13, H0, D1, P1, C4, S0
+N, 18.5, W, 127.2, G, 53.5, 1997/06/11, H0, D1, P1, C4, S0
+N, 55.6, W, 120.6, G, 101.0, 1997/06/13, H0, D1, P1, C4, S0
+N, 37.6, W, 122.3, G, 201.0, 1997/06/11, H0, D1, P1, C4, S0 
+C A Balloon flight over Ft. Churchill
+A,  PAEI , F, 30000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 35000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 40000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 45000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 50000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 55000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 60000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 65000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 70000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 80000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 90000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 100000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 100000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 110000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 120000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 130000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 140000, 1965/08/03, H0, D4, P0, C4, S0 
+A,  PAEI , F, 30000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 35000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 40000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 45000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 50000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 55000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 60000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 65000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 70000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 80000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 90000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 100000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 100000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 110000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 120000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 130000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 140000, 1965/08/03, H0, D5, P0, C4, S0 
+A,  PAEI , F, 30000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 35000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 40000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 45000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 50000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 55000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 60000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 65000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 70000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 80000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 90000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 100000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 100000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 110000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 120000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 130000, 1965/08/03, H0, D1, P1, C4, S0 
+A,  PAEI , F, 140000, 1965/08/03, H0, D1, P1, C4, S0 
+STOP--------------------------------------------------------
+

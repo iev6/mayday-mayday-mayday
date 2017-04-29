@@ -1,0 +1,417 @@
+INFORMATION ABOUT CARI-7 (17 Dec 2016 version)
+
+NOTICE
+This program and documentation is disseminated under the sponsorship of 
+the U.S. Department of Transportation in the interest of information 
+exchange. The United States Government assumes no liability for the 
+contents thereof.
+
+TABLE OF CONTENTS
+1. INTRODUCTION 
+
+2. SYSTEM REQUIREMENTS   
+
+3. USING THE PROGRAM
+  A. FLIGHT PROFILES AND CALCULATING FLIGHT DOSES
+    i. FLIGHTS FOLLOWING GEODESIC ROUTES 
+    ii. FLIGHTS FOLLOWING A USER-SPECIFIED PATH
+  B. AIRPORT DATA
+    i. SEARCHING AIRPORT DATA
+    ii. ADDING/EDITING AIRPORTS
+  C. DOSE RATES AT SPECIFIC LOCATIONS
+  D. SOLAR MODULATION OF GALACTIC COSMIC RADIATION
+  E. CHANGING DEFAULT SETTINGS AND REVIEW OF OLD OUTPUT
+    i. CHANGING DEFAULT SETTINGS
+    ii. REVIEW OF OLD OUTPUT
+
+4. UNCERTAINTIES
+
+5. DEVELOPERS OF CARI  
+
+   
+1. INTRODUCTION 
+
+CARI-7 calculates the dose of galactic cosmic radiation received 
+by an adult on a nonstop aircraft flight during any month from
+January 1958 to the present. It can also calculate the
+effective dose rate from galactic radiation at any specific
+location in the atmosphere at altitudes up to 100 km.
+  
+The program takes into account the effects of solar activity,
+as well as the geomagnetic field on galactic cosmic radiation 
+levels for the date selected by the user. Radiation from solar 
+particle events is not taken into account by the program,
+with the exceptions that Forbush Decreases are taken into
+account in the absence of Ground Level Events, and geomagnetic 
+cutoffs are adjusted for Kp index if data are available.
+
+Doses and dose rates are integrated from databases of cosmic 
+ray showers calculated by MCNPX 2.7.0. The shower intensities are 
+derived from the primary cosmic ray (GCR) input spectrum. CARI-7
+uses the local interstallar spectrum from the ISO 2004 GCR model 
+modulated by the heliocentric potential method.  
+
+
+2. SYSTEM REQUIREMENTS/INSTALLATION
+
+Compiled versions are provided for Intel processsors running 64-bit
+Windows and Linux. The program and associated files use about 80 MB 
+of disk space. This will not increase much with use unless debugging 
+output is turned on in the INI file. 
+
+To use the Linux version, adjust the VIEWER and OS variables in the 
+CARI.INI file and replace the Win64 executable in the main directory 
+(CARI-7.exe) with the Linux executable from the subdirectory 
+/Linux_Intel_64bit (A Windows executable is archived in /WIN64_Intel).
+
+Particularly on older systems, limiting cpu access may significantly  
+improve performance of other concurrently running programs.    
+
+
+3. USING THE PROGRAM
+
+The program starts at the MAIN MENU. 
+To see this HELP file select item 1. 
+To enter flight profiles and calculate flight doses select item 2.
+To find, change, or add airport information select item 3.
+To execute calculations of dose rates at locations select item 4.
+To add or lookup heliocentric potential data select item 5.
+To see past calculation results or change settings select item 6.
+To exit select item 7.    
+
+3.A. FLIGHT PROFILES AND CALCULATING FLIGHT DOSES
+
+There are 2 kinds of flight profiles the program can analyze. 
+Flights that follow approximately geodesic (great circle) routes
+between airports are stored collectively in archives called *.BIG 
+files. Flights that follow waypoint defined flight paths are
+stored individually in *.DEG files.
+
+Selecting item 2 on the MAIN MENU brings up the option of analyzing 
+a BIG or DEG file. 
+
+Both BIG files from CARI-6 and DEG files from -6M are compatible
+with CARI-7.
+
+3.A.i. FLIGHTS FOLLOWING GEODESIC ROUTES 
+
+Selecting option <1> will list of all of the available BIG files 
+in the current directory. BIG files are just ordinary text files 
+containing flight information needed by CARI to do an analysis. 
+The file EXAMPLE.BIG is provided as an example for you to use as 
+a template. The program expects the filename to follow the  
+traditional 8.3 format, so give it name with 8 characters or 
+less, e.g. EXAMPLE1.BIG. Dozens of *.BIG files are allowed, and 
+there is no limit to the size of a BIG file. CARI-6 users have run 
+files with thousands of flights.  
+
+Up to 16 BIG files can be listed at any one time. Unused BIG files 
+should be removed from the directory to reduce clutter and make it
+easier to find the one you want to use. 
+
+FORMAT OF A FLIGHT PROFILE IN A BIG FILE
+
+New York-Seattle  Flight ID of 1 to 20 characters
+07/1995           Flight date (MM/YYYY)  
+KJFK              ICAO code of origin airport  
+KSEA              ICAO code of destination airport 
+2                Number of en route altitudes
+29               Minutes climbing to 1st en route altitude
+35000    99      1st en route altitude:  feet   minutes
+39000   147      2nd en route altitude:  feet   minutes
+17               Minutes descending to destination airport
+
+If 00 is entered in the MM positions of the flight date, the
+flight dose calculated will be the average for the year.
+  
+After the first en route altitude, time at an en route altitude
+is expected to include minutes climbing or descending from the 
+previous en route altitude.
+
+Flight doses can be calculated for the dates entered with the
+flight profiles or for other dates. To calculate a dose for a more 
+specific time than a monthly average, it must be entered through
+the file DEFAULT.INP or at run time. 
+
+3.A.ii. FLIGHTS FOLLOWING A USER-SPECIFIED PATH
+
+Selecting option <2> will list of all of the available DEG files 
+in the current directory. DEG files are text files containing 
+the user-specified waypoints that define the flight. CARI uses a 
+geodesic route, constant speed, and a constant rate of climb or 
+descent between each waypoint pair. The file EXAMPLE.DEG is provided 
+as an example for you to use as a template.  
+ 
+01/2002, FL-27                           
+DEG MIN N/S DEG MIN E/W FEET TIME(MIN)   
+4, 58.76, N, 97, 0.27, W, 667, 0                
+3, 30.29, N, 85, 32.60, W, 33000, 6
+2, 17.01, N, 84, 15.59, W, 33000, 15
+1, 17.01, S, 84, 15.59, W, 37000, 18
+2, 24.25, S, 3, 28.7, W, 37000, 21
+3, 28.30, S, 0, 27.2, W, 80, 25
+
+The first line is the flight date and name, the second line is 
+headers to aid the reader, and all folowing lines are waypoints.
+In each waypoint data line the data are is comma separated:
+Column 1 is integer degrees latitude
+Column 2 is real minutes latitude
+Column 3 is N or S designator (equator can be either)
+Column 4 is integer degrees longitude
+Column 5 is real minutes longitude
+Column 6 is E or W designator (prime meridian can be either)
+Column 7 is integer altitude in feet 
+Column 8 is integer time in minutes from start of flight
+
+Flight doses can be calculated for the dates entered with the
+flight profiles or for other dates. To calculate a dose for a more 
+specific time than a monthly average, it must be entered through
+the file DEFAULT.INP or at run time. 
+
+3.B. AIRPORT DATA
+
+3.B.i. SEARCHING AIRPORT DATA
+The program databases already contains information on over 5000
+airports worldwide. The International Civil Aviation Organization 
+(ICAO) airport codes are used by the program to access this data.
+The code for an airport may be found by choosing item <3> on 
+the MAIN MENU.  This will bring up the AIRPORT MENU. You can 
+search by city name (1), airport name (2), or ICAO code (3).  
+When searching by name use the first few characters and try 
+alternate spellings. To find codes for airports in Washington, DC,
+for example, examine all city entries beginning with Washington.  
+Note that for cities with several airports, not all entries may
+appear on the first screen.  
+
+3.B.ii. ADDING/EDITING AIRPORTS
+For airports not in the databases or to make corrections, the 
+geographic coordinates (degrees and minutes), elevation (feet), 
+and airport code for the new entry may be entered into the file 
+NEWPORTS.DAT either with a text editor or by choosing item <4> on the 
+AIRPORT MENU (item <3> on the MAIN MENU). If the new airport will  
+become a permanent change, copy the new data line from NEWPORTS.DAT 
+to AIRPORTS.DAT.
+
+The format is as an 89 character string containing:
+CITY NAME(30 Characters), ICAO CODE (4-6 characters), 
+AIRPORT NAME(30 Characters), 
+LATITUDE (6 Characters +0) DDMMSS0, N?S character (0 for North), 
+LONGITUDE (7 Characters +0) DDDMMSS0, E?W character (0 for West), 
+AIRPORT RUNWAY ALTITUDE IN FEET (5 Characters +0), e.g.,
+
+ADELAIDE, AUSTRALIA           YPAD  ADELAIDE INTL                 
+3456420}13831540}000200
+
+Airports may also be imported from older versions of CARI, since this
+is the legacy data format. Copy the lines from the older files to 
+either AIRPORTS.DAT (recommended) or NEWPORTS.DAT.  
+
+If multiple airports have the same ICAO code and different location 
+data, CARI will use the data for the first one found in PORT.NDX.  
+
+The sorted files are rebuilt at start and whenever a new airport
+might have been added through the internal menus.  
+
+3.C. DOSE RATES AT SPECIFIC LOCATIONS
+
+You can calculate the dose rate at a specific location or from a 
+list of pre-defined locations by selecting item (4) from the MAIN 
+MENU. To calculate for a single location, choose item (1) from the 
+LOCATION MENU and make selections as requested by CARI.
+
+Selecting item <1> to calculate the dose rate for a single location 
+and set of conditions does not alter PLACES.ANS and the results are 
+only printed to screen, not saved. If you want to keep it, make a note.
+
+Selecting item <2> starts analysis of location data file (*.LOC). 
+Results of dose rate calculations are stored in files ending with the
+.ANS extension (e.g., results for MY.LOC will be placed in MY.ANS). 
+
+LOC files can be edited by selecting item <3> from the LOCATION MENU. 
+Lines are comma delimited and each line is limited to 66 characters. 
+Adding more characters will introduce junk lines to the output file 
+and result in unread data at the end of the line. The sample file 
+PLACES.LOC has many notes to guide customization of this kind of file.
+
+To view results select item <4>. The ANS is rewritten each time when 
+using item <2>, so to keep the results it is best to rename the LOC 
+file or copy the ANS file elswhere before re-running an analysis. 
+
+Choosing item <5> opens this help file.
+
+Collections of locations can also be analysed from the command line
+by designating the name of the location data file in DEFAULT.INP.
+
+
+3.D. MODULATION OF GALACTIC COSMIC RADIATION
+
+The GCR data are modified based on up to 3 factors: long-term solar 
+activity accounted for using monthly averaged heliocentric potentials,
+short-term variations in solar activity from the monthly average such 
+as Forbush decreases accounted for using hourly neutron monitor count 
+rate data, and geomagnetic storm effects accounted for using the 
+Kp index. Ionizing radiation increases from solar proton events are 
+not included.
+  
+3.D.i. SOLAR MODULATION BY HELIOCENTRIC POTENTIAL 
+
+Flight doses for specific flight profiles normally change very
+little in a couple of months.  For example, on a nonstop one-way 
+flight from Chicago to London, flight doses during 1998 were 52.3 
+microsieverts in February, 53.5 microsieverts in March, and 52.9 
+microsieverts in April (CARI-6 values).
+
+CARI-7 uses the ISO model local interstellar spectrum (LIS) modulated 
+by the heliocentric potential method, instead of the Wolf sunspot and 
+magnetic field orientation driven method described in the ISO report. 
+While still producing a slowly varying GCR spectrum at Earth orbit, 
+this type of modulation is more dynamic that the original ISO 
+modulation. Also known as the Ehmert potential, the heliocentric 
+potential was also used in CARI-6 to adjust for changes in galactic 
+cosmic radiation levels that occur with changes in solar activity. 
+Because of a desire for continuity, heliocentric potentials for CARI-6 
+are usable by CARI-7, despite differences in primary GCR LIS. 
+Adjustments are made internally.
+
+Recent heliocentric potentials are available on our Web site. 
+Search for "FAA Radiobiology heliocentric" and follow the links. 
+The current address as of Jan. 2017 is:
+
+http://www.faa.gov/data_research/research/med_humanfacs/aeromedical/
+radiobiology/heliocentric/
+
+There is a lag of about one month in availability of heliocentric 
+potential data on our Web site. To estimate flight doses during the 
+current month or a future month, we suggest you use the most recent 
+heliocentric potential available. We do not recommend using
+a heliocentric potential more than two months removed from the 
+month of interest, particularly during solar maximum.   
+
+Heliocentric potentials with corresponding dates are in a 
+permanent database (MV-DATES.L99) and in a user-modifiable
+database (MORDATES.2K).  Enter new monthly heliocentric potential 
+data obtained from the Web site into MV-DATES.L99. Data in 
+MOREDATES.2K takes precedence over data in MV-DATES.L99
+so be careful to keep it clean if you use it to override 
+the permanent database.
+
+CARI-7 looks for these data in the file \SOLARMOD\MV-DATES.L99  
+
+The effects of geomagnetic storms and Forbush decreases on primary 
+GCR flux are usually ignored. However, for comparison with instrument 
+measurements, using the specific day and hour of the measurement is 
+best practice. This invokes the Forbush and geomagnetic storm based 
+adjustment subroutines, which are not needed for monthly average 
+calculations. Using these routines significantly increases run times.
+
+3.D.ii. Forbush Effects
+
+Hourly deviations in GCR from the monthly average such as Forbush 
+decreases are kept in the file \FORBUSH\FORBUSH.DAT. The format is 
+based on the WDC neutron monitor data format, with the last column 
+added as the hourly count rate relative to the monthly average.
+If data are not found for the user entered date, the monthly 
+average is used.
+
+3.D.iii. GEOMAGNETIC STORMS 
+
+Short term variations in geomagnetic shielding are accounted for 
+using the Kp index. The data are stored in \KP_INDEX\KP_INDEX.TXT
+and current data are available from NOAA's Space Weather Prediction 
+Center. As with the Forbush data, if data are not present, 
+geomagnetically quiet conditions are used. 
+
+
+3.E. CHANGING DEFAULT SETTINGS AND REVIEW OF OLD OUTPUT
+
+Item (5) on the MAIN MENU brings up the OUTPUT MENU.
+
+3.E.i. CHANGING DEFAULT SETTINGS/RUNNING IN SHELLS 
+From the OUTPUT MENU you can change the model settings in 
+CARI.INI (item 1) and change the default input data for batch 
+mode/shell scripting stored in DEFAULT.INP (item 2). The notes  
+in CARI.INI and DEFAULT.INP explain how to change the files 
+appropriately. I suggest backing them up somewhere so you can 
+always restore the default settings if needed.
+
+3.E.ii. REVIEW OF OLD OUTPUT
+Using the OUTPUT MENU item (3) you can also review/edit 
+previously calculated flight dose archives. Selecting item (4) 
+loads the current contents of PLACES.ANS into the default editor.
+
+
+4. UNCERTAINTIES
+
+Uncertainties in the component models were combined under the 
+assumptions of complete independence of variables, a normal 
+distribution of values, and that individual element uncertainties 
+were expressed in terms of standard uncertainties, equivalent to 
+standard deviations with respect to combining uncertainties. These
+should be considered only an an indicator of statistical precision. 
+After including a safety factor of 2, the estimated uncertainty 
+from all sources is about 30% for commercial altitudes.   
+
+
+5. DEVELOPERS OF CARI  
+
+CARI-7/7A (all versions)
+Kyle Copeland
+Mail route AAM-631 (Numerical Sciences Research)
+Civil Aerospace Medical Institute, Federal Aviation Administration
+Oklahoma City, Oklahoma  73125-5066 USA
+FAX (405) 954-1010
+E-Mail  kyle.copeland@faa.gov
+
+CARRIER (CARI-1) through CARI-6 
+Wallace Friedberg, Frances E. Duke, Lorrenza Snyder, Kyle Copeland
+Mail route AAM-610 (Radiobiology Research)
+Civil Aerospace Medical Institute, Federal Aviation Administration
+Oklahoma City, Oklahoma  73125-5066 USA
+FAX (405) 954-1010
+E-Mail  kyle.copeland@faa.gov
+
+Keran O'Brien, III
+Department of Physics and Astronomy, Northern Arizona University
+Flagstaff, Arizona  86011
+
+Donald E. Parker 
+Department of Biostatistics and Epidemiology
+University of Oklahoma Health Sciences Center
+Oklahoma City, Oklahoma  73190
+
+Margaret A. Shea, Donald F. Smart
+Air Force Geophysics Laboratory, Hanscom AFB
+Bedford, Massachusetts  01731-5000
+
+Many thanks to Dr. Copeland's thesis committee for their very useful 
+comments and questions during the development of CARI-7: Brent Lewis, 
+Emily Corcoran, Hughes Bonin, Andy Belyea and Kristine Spekkens at 
+the Royal Military College of Canada, and Francios Lemay of i-s-r.ca. 
+Thanks also to Tyler Dumouchel of i-s-r.ca (Canada) and Tatsuhito Sato 
+of JAERI (Japan) for their data and comments. Also, special thanks to 
+Paul Goldhagen, U.S. Dept. of Homeland Security, for his data and
+many hours of discussion about GCR modeling with MCNPX and MCNP.   
+
+We are grateful to Margaret D. Wilson (Ottawa, Canada), working
+under the auspices of the Bartol Research Institute of the
+University of Delaware, USA, and Eduard Vashenyuk of the Apatity
+Cosmic Ray Station, Polar Geophysical Institute, Russia, for
+providing neutron monitor counting rate data used to calculate
+the heliocentric potential and Forbush adjustments.
+
+Finally, thanks to the many other colleagues who contributed to the 
+development of CARI through its long history, particularly:  
+Edgar B. Darden, Jr., Oak Ridge, Tennessee, USA
+Ernst Feldsberger of the University of Graz, Austria
+Alfredo Ferrari, INFN, Sezione di Milano, Italy 
+Wolfgang Heinrich, University of Siegen, Germany
+Maurizio Pelliccioni, INFN, Laboratori Nazionali di Frascati, Italy
+M. Pillon, Associazione EURATOM-ENEA sulla Fusione Centro Ricerche, 
+     Frascati, Italy 
+Stefan Roesler, CERN, Switzerland 
+Timothy C. Lamey and Donald N. Faulkner of the Civil Aerospace
+Medical Institute, FAA, USA.
+
+Our thanks as well to all those who and have given us feedback over 
+the many years, aiding the development of CARI.
+

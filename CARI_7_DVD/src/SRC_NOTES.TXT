@@ -1,0 +1,23 @@
+These codes are all written in structured Fortran95. The codes written
+by me may be freely distributed. Those not written by me are:
+
+1. The subroutines in GEODESIC.FOR, which are adapted for use from 
+the package FORWARD/INVERSE, freely distributed by the US National 
+Oceanic and Atmospheric Administration's National Geodetic Survey 
+(https://www.ngs.noaa.gov/TOOLS/https://www.ngs.noaa.gov/TOOLS/); 
+
+2. The cubic spline routine TDSPLINE is adapted from a routine 
+published in 2008 for open use by Tanmoy Das at his codes blog 
+(http://encodedcode.blogspot.com/2008/10/spline-interpolation-
+function-for.html). It resembles: 
+http://astronomy.nmsu.edu/cwc/Teaching/Codes/spline-subs.f
+with thier comments removed, but variable names and code layout
+are identical, with the exception that TD combines SPLINE and SPLINT
+into one sub.
+
+Kyle Copeland, Ph.D.
+Numerical Sciences Research Team
+Aerospace Medical Research Division
+Civil Aerospace Medical Institute
+U.S. Federal Aviation Administration
+   

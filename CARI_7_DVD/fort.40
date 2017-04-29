@@ -1,0 +1,19 @@
+ VIEWER     gedit       
+ VIEWER    =gedit       
+ OUTPUT     FILE        
+ OUTPUT    =FILE
+ DIAGNOSE   NO!         
+ DIAGNOSE  =NO!
+ OS         LINUX       
+ OS        =LINUX
+ DISPLAY    DOS         
+ DISPLAY   =DOS
+ MENUS      YES         
+ MENUS     =YES
+ SUPERPOS   NO!         
+ SUPERPOS  =           0
+ GCR_MODEL  4           
+ GCR_MODEL =           4
+ NVCR       0           
+ NVCR      =0
+ END        END         
