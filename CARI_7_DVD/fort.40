@@ -8,8 +8,8 @@
  OS        =LINUX
  DISPLAY    DOS         
  DISPLAY   =DOS
- MENUS      YES         
- MENUS     =YES
+ MENUS      NO!         
+ MENUS     =NO!
  SUPERPOS   NO!         
  SUPERPOS  =           0
  GCR_MODEL  4           
