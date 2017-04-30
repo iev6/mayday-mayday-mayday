@@ -1,18 +1,17 @@
 import numpy as np
-import pyproj
 
 ##Change input method from Javascript
 
-coordx1, coordy1 = [13.23,24.32]
-coordx2, coordy2 = [60.2,-40.3]
+coordx1, coordy1 = [0,0]
+coordx2, coordy2 = [0,90]
 
 start_city = [coordx1, coordy1]
 dest_city = [coordx2, coordy2]
 
 
 #calculation of average distance
-ang1=np.pi/180*start_city
-ang1=np.pi/180*dest_city
+ang1=np.pi/180*np.asarray(start_city, dtype= float)
+ang2=np.pi/180*np.asarray(dest_city, dtype= float)
 
 delx=np.cos(ang2[0])*np.cos(ang2[1])-np.cos(ang1[0])*np.cos(ang1[1])
 dely=np.cos(ang2[0])*np.sin(ang2[1])-np.cos(ang1[0])*np.sin(ang1[1])
@@ -22,6 +21,9 @@ c=np.sqrt(delx**2+dely**2+delz**2)
 
 deldel=2.*np.arcsin(c/2)
 dist=6350.*deldel #km
+
+print dist
+print 6350.*np.pi/2
 
 speed=900. #km/hr
 avgtime=dist/speed*60.   #minutes
