@@ -15,10 +15,11 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from base.apis import test
+from base.apis import submit, mainCord
 
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^api/test/$', test)
+    url(r'^api/submit/$', submit),
+    url(r'^api/maindata/$', mainCord)
 ]

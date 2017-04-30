@@ -28,19 +28,36 @@ SECRET_KEY = 'kz&5ktcena9=#*m12xab-kwfv1dcm+bxshd%c_a-*&fg6u@sax'
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-
+SESSION_COOKIE_HTTPONLY = False
+CSRF_COOKIE_SECURE = False
 
 # Application definition
 
 INSTALLED_APPS = [
     'django.contrib.auth',
     'django.contrib.contenttypes',
-    'rest_framework'
+    'rest_framework',
+    'django.contrib.sites'
 ]
 
-MIDDLEWARE = [
+REST_FRAMEWORK = {
+    'DEFAULT_PARSER_CLASSES': (
+        'rest_framework.parsers.JSONParser',
+    )
+}
+
+# MIDDLEWARE_CLASSES = [
+#     'django.middleware.security.SecurityMiddleware',
+#     'django.middleware.common.CommonMiddleware',
+#     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+# ]
+
+MIDDLEWARE_CLASSES = [
     'django.middleware.security.SecurityMiddleware',
+    'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
@@ -56,6 +73,7 @@ TEMPLATES = [
             'context_processors': [
                 'django.template.context_processors.debug',
                 'django.template.context_processors.request',
+                'django.template.context_processors.static',
             ],
         },
     },
@@ -78,20 +96,14 @@ DATABASES = {
 }
 
 
-
-
 # Internationalization
 # https://docs.djangoproject.com/en/1.10/topics/i18n/
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Kolkata'
 
-USE_I18N = True
-
-USE_L10N = True
-
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)
