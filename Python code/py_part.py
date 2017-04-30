@@ -4,8 +4,8 @@ import pyproj
 ##Change input method from Javascript
 numberofsteps = 100
 
-coordx1, coordy1 = [13.23,24.32]
-coordx2, coordy2 = [60.2,-40.3]
+coordx1, coordy1 = [77.2, 28.617]
+coordx2, coordy2 = [-99.117, 19.4]
 
 start_city = [coordx1, coordy1]
 dest_city = [coordx2, coordy2]

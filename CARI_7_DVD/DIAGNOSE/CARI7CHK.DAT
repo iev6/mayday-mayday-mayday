@@ -5048,124 +5048,10 @@
     4  KYLES AIRPORT                 KYLE1 KYLE CITY, OK                 45000000098000000012340  
     5  NEW KYLEV AIRPORT             KYLE2 NEW KYLE, NM                  37000000103000000012450  
     6  END OF FILE                   ----  END OF FILE                   99999990999999999999990  
- COMMENT OR IMPROPER FORMAT FOR DATA AT LINE:           62 IN PLACES.DAT
- C, ICRU Rep 84 quick comparison points                      
- TIME BEFORE CALLING DOSE WAS   -2.768000    
-   TIME FOR DATE WAS   -2.768000    
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   0.0000000E+00
- TIME AFTER DOSE WAS    2.768000    
- TIME ON THIS LINE DATA WAS   0.0000000E+00
-  
- COMMENT OR IMPROPER FORMAT FOR DATA AT LINE:           63 IN PLACES.DAT
- C, ICRU SOL MIN                                             
- TIME BEFORE CALLING DOSE WAS   -2.768000    
-   TIME FOR DATE WAS   -2.768000    
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   0.0000000E+00
- TIME AFTER DOSE WAS    2.768000    
- TIME ON THIS LINE DATA WAS   0.0000000E+00
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    293.107200000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   6.0000181E-02
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  2.9311E+02  1.9980E+03 152   4   0   0
-  Adjusted Dose of type          152  is    4.90495155238401     
-  Doserate calculation time in seconds.  6.8000078E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   6.8000078E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   6.8000078E-02
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    243.120700000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   8.5000E+01  5.0000E+00  2.4312E+02  1.9980E+03 152   4   0   0
-  Adjusted Dose of type          152  is    6.60433091856937     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   3.9999485E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    200.649500000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   8.5000E+01  5.0000E+00  2.0065E+02  1.9980E+03 152   4   0   0
-  Adjusted Dose of type          152  is    8.05913468462479     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    293.107200000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  2.9311E+02  1.9980E+03 152   4   0   0
-  Adjusted Dose of type          152  is    1.53398394466550     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   4.0001869E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   4.0001869E-03
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    243.120700000000     
-  Sending DOSE date and time =    1998.04109589041     
+  Sending DOSE latitude =    77.2000000000000     
+  Sending DOSE longitude =    28.6170000000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
   Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
@@ -5173,8 +5059,8 @@
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   3.9999485E-03
   FORBUSH time in seconds.   0.0000000E+00
- Finished:   1.5000E+01  7.5000E+01  2.4312E+02  1.9980E+03 152   4   0   0
-  Adjusted Dose of type          152  is    1.86942327739453     
+ Finished:   7.7200E+01  2.8617E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17340408641187     
   Doserate calculation time in seconds.  1.2000084E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -5185,67 +5071,10 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.2000084E-02
   
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    200.649500000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  2.0065E+02  1.9980E+03 152   4   0   0
-  Adjusted Dose of type          152  is    2.15701327106520     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
- COMMENT OR IMPROPER FORMAT FOR DATA AT LINE:           70 IN PLACES.DAT
- C, ICRU SOL MAX                                             
- TIME BEFORE CALLING DOSE WAS  -7.9998970E-03
-   TIME FOR DATE WAS  -7.9998970E-03
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   0.0000000E+00
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    293.107200000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.4000149E-02
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  2.9311E+02  2.0020E+03 152   4   0   0
-  Adjusted Dose of type          152  is    3.80626593744443     
-  Doserate calculation time in seconds.  5.2000046E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   3.9999485E-03
- TIME IN DOSE WAS   5.2000046E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   5.5999994E-02
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    243.120700000000     
-  Sending DOSE date and time =    2002.04109589041     
+  Sending DOSE latitude =    76.9642300000000     
+  Sending DOSE longitude =    27.7589270000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
   Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
@@ -5253,433 +5082,8 @@
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  2.4312E+02  2.0020E+03 152   4   0   0
-  Adjusted Dose of type          152  is    5.01349951273964     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    200.649500000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  2.0065E+02  2.0020E+03 152   4   0   0
-  Adjusted Dose of type          152  is    6.04707917217683     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    293.107200000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   1.5000E+01  7.5000E+01  2.9311E+02  2.0020E+03 152   4   0   0
-  Adjusted Dose of type          152  is    1.47939331243007     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    243.120700000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  2.4312E+02  2.0020E+03 152   4   0   0
-  Adjusted Dose of type          152  is    1.79947864260695     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    200.649500000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   1.5000E+01  7.5000E+01  2.0065E+02  2.0020E+03 152   4   0   0
-  Adjusted Dose of type          152  is    2.07389362531569     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   3.9999485E-03
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
- COMMENT OR IMPROPER FORMAT FOR DATA AT LINE:           77 IN PLACES.DAT
- C, Altitude profile high latitude QUICK TEST, ICRU Sol Min  
- TIME BEFORE CALLING DOSE WAS  -8.0001354E-03
-   TIME FOR DATE WAS  -1.2000084E-02
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   3.9999485E-03
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   0.0000000E+00
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    1000.00000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.3999910E-02
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  1.0000E+03  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is   8.320431683075429E-002
-  Doserate calculation time in seconds.  4.7999859E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   4.7999859E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   4.7999859E-02
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    900.000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   8.5000E+01  5.0000E+00  9.0000E+02  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is   0.127529557644158     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    700.000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  7.0000E+02  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is   0.369305071648448     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    500.000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   8.5000E+01  5.0000E+00  5.0000E+02  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    1.21407206871230     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    300.000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  3.0000E+02  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    4.20950234120135     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    200.000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  2.0000E+02  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    7.37314500013477     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    125.000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  1.2500E+02  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    11.2683403379983     
-  Doserate calculation time in seconds.  3.9999485E-03
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   3.9999485E-03
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   3.9999485E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    100.000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  1.0000E+02  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    13.7626105871155     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    77.0000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  7.7000E+01  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    16.1582229788178     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    50.0000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  5.0000E+01  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    20.7620204886679     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    30.0000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  3.0000E+01  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    27.1973094052878     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    20.0000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  2.0000E+01  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    33.2376533090464     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    15.0000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  1.5000E+01  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    37.7508771968030     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    10.0000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  1.0000E+01  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    43.5876707752738     
+ Finished:   7.6964E+01  2.7759E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17311984709527     
   Doserate calculation time in seconds.  3.9999485E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -5690,306 +5094,65 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   3.9999485E-03
   
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    5.00000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  5.0000E+00  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    53.2469573148185     
-  Doserate calculation time in seconds.  1.1999846E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.1999846E-02
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    2.00000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  2.0000E+00  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    62.9583834173231     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    85.0000000000000     
-  Sending DOSE longitude =    5.00000000000000     
-  Sending DOSE altitude =    1.00000000000000     
-  Sending DOSE date and time =    1998.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   8.5000E+01  5.0000E+00  1.0000E+00  1.9980E+03  76   4   0   0
-  Adjusted Dose of type           76  is    67.4316736187537     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
- COMMENT OR IMPROPER FORMAT FOR DATA AT LINE:           95 IN PLACES.DAT
- C, Altitude profile low latitude QUICK TEST, ICRU Sol Max   
- TIME BEFORE CALLING DOSE WAS  -1.2000084E-02
-   TIME FOR DATE WAS  -1.2000084E-02
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   0.0000000E+00
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    1000.00000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.3999910E-02
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  1.0000E+03  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is   5.680041862101102E-002
-  Doserate calculation time in seconds.  5.1999807E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   5.1999807E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   5.1999807E-02
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    900.000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
+  Sending DOSE latitude =    76.7321300000000     
+  Sending DOSE longitude =    26.9003520000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   8.0001354E-03
- Finished:   1.5000E+01  7.5000E+01  9.0000E+02  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is   7.814141589763676E-002
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.6732E+01  2.6900E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17280497173268     
+  Doserate calculation time in seconds.  3.9999485E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   3.9999485E-03
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    700.000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  7.0000E+02  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is   0.183140590962009     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
+ TIME IN DOSE WAS   3.9999485E-03
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    500.000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
+  Sending DOSE latitude =    76.5035150000000     
+  Sending DOSE longitude =    26.0412960000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  5.0000E+02  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is   0.516279798927685     
-  Doserate calculation time in seconds.  1.1999846E-02
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.6504E+01  2.6041E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17279925748792     
+  Doserate calculation time in seconds.  3.9999485E-03
  TIME BEFORE CALLING DOSE WAS   4.0001869E-03
-   TIME FOR DATE WAS   4.0001869E-03
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    300.000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  3.0000E+02  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    1.43688942404587     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
+   TIME FOR ALT WAS   4.0001869E-03
+ TIME IN DOSE WAS   3.9999485E-03
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   8.0001354E-03
   
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    200.000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  2.0000E+02  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    2.12153399024554     
-  Doserate calculation time in seconds.  1.1999846E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.1999846E-02
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    125.000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   1.5000E+01  7.5000E+01  1.2500E+02  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    2.52585259730688     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    100.000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
+  Sending DOSE latitude =    76.2782080000000     
+  Sending DOSE longitude =    25.1817820000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   0.0000000E+00
- Finished:   1.5000E+01  7.5000E+01  1.0000E+02  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    2.59911371281907     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    77.0000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   1.5000E+01  7.5000E+01  7.7000E+01  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    2.66772956192345     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    50.0000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  5.0000E+01  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    2.78749580714060     
+ Finished:   7.6278E+01  2.5182E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17265185960821     
   Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   3.9999485E-03
    TIME FOR DATE WAS   0.0000000E+00
@@ -6000,19 +5163,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.1999846E-02
   
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    30.0000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
+  Sending DOSE latitude =    76.0560410000000     
+  Sending DOSE longitude =    24.3218300000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   1.5000E+01  7.5000E+01  3.0000E+01  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    3.04484902158369     
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.6056E+01  2.4322E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17251931810577     
   Doserate calculation time in seconds.  8.0001354E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -6023,111 +5186,88 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   8.0001354E-03
   
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    20.0000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
+  Sending DOSE latitude =    75.8368530000000     
+  Sending DOSE longitude =    23.4614590000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  2.0000E+01  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    3.33166295984954     
-  Doserate calculation time in seconds.  7.9998970E-03
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.5837E+01  2.3461E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17209938075116     
+  Doserate calculation time in seconds.  3.9999485E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   3.9999485E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   3.9999485E-03
+  
+  Sending DOSE latitude =    75.6204880000000     
+  Sending DOSE longitude =    22.6006900000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.5620E+01  2.2601E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17191960944323     
+  Doserate calculation time in seconds.  4.0001869E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   3.9999485E-03
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   4.0001869E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    75.4067980000000     
+  Sending DOSE longitude =    21.7395400000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.5407E+01  2.1740E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17200174513382     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   3.9999485E-03
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
  TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    15.0000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   1.5000E+01  7.5000E+01  1.5000E+01  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    3.57402373832006     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    10.0000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   1.5000E+01  7.5000E+01  1.0000E+01  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    3.90691853351840     
-  Doserate calculation time in seconds.  1.1999846E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.1999846E-02
   
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    5.00000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
+  Sending DOSE latitude =    75.1956400000000     
+  Sending DOSE longitude =    20.8780280000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   1.5000E+01  7.5000E+01  5.0000E+00  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    4.48513349356440     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    2.00000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.5000E+01  7.5000E+01  2.0000E+00  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    5.07550757981384     
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.5196E+01  2.0878E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17194292420827     
   Doserate calculation time in seconds.  8.0001354E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -6138,19 +5278,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   8.0001354E-03
   
-  Sending DOSE latitude =    15.0000000000000     
-  Sending DOSE longitude =    75.0000000000000     
-  Sending DOSE altitude =    1.00000000000000     
-  Sending DOSE date and time =    2002.04109589041     
-  Sending DOSE dosekind =           76
+  Sending DOSE latitude =    74.9868770000000     
+  Sending DOSE longitude =    20.0161720000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
+  GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   0.0000000E+00
- Finished:   1.5000E+01  7.5000E+01  1.0000E+00  2.0020E+03  76   4   0   0
-  Adjusted Dose of type           76  is    5.35611142074261     
+ Finished:   7.4987E+01  2.0016E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17099537871996     
   Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -6161,53 +5301,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   7.9998970E-03
   
- COMMENT OR IMPROPER FORMAT FOR DATA AT LINE:          113 IN PLACES.DAT
- C Neutron flux profile near solar min, mid latitude         
- TIME BEFORE CALLING DOSE WAS  -7.9998970E-03
-   TIME FOR DATE WAS  -7.9998970E-03
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   0.0000000E+00
-  
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    1.00000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.8000097E-02
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   4.6000E+01  6.0000E+01  1.0000E+00  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is   0.927391875840569     
-  Doserate calculation time in seconds.  5.5999994E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   5.5999994E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   5.5999994E-02
-  
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    2.00000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    74.7803770000000     
+  Sending DOSE longitude =    19.1539890000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   0.0000000E+00
- Finished:   4.6000E+01  6.0000E+01  2.0000E+00  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    1.04321450325303     
+ Finished:   7.4780E+01  1.9154E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17114691283113     
   Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -6218,65 +5324,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    4.00000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    74.5760120000000     
+  Sending DOSE longitude =    18.2914950000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   0.0000000E+00
- Finished:   4.6000E+01  6.0000E+01  4.0000E+00  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    1.26488770974129     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   4.0001869E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   4.0001869E-03
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    7.00000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   4.6000E+01  6.0000E+01  7.0000E+00  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    1.54809066449908     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    15.0000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   4.6000E+01  6.0000E+01  1.5000E+01  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    2.17185471263677     
+ Finished:   7.4576E+01  1.8291E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17081649338286     
   Doserate calculation time in seconds.  8.0001354E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -6287,19 +5347,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   8.0001354E-03
   
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    30.0000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    74.3736590000000     
+  Sending DOSE longitude =    17.4287070000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   4.6000E+01  6.0000E+01  3.0000E+01  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    3.03100445248861     
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.4374E+01  1.7429E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.17037959188327     
   Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -6310,42 +5370,65 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    50.0000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   4.6000E+01  6.0000E+01  5.0000E+01  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    3.70260120055341     
-  Doserate calculation time in seconds.  8.0001354E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   8.0001354E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   8.0001354E-03
-  
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    77.0000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    74.1731990000000     
+  Sending DOSE longitude =    16.5656410000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   0.0000000E+00
- Finished:   4.6000E+01  6.0000E+01  7.7000E+01  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    4.09811965396339     
+ Finished:   7.4173E+01  1.6566E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16989263400674     
+  Doserate calculation time in seconds.  4.0001869E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   4.0001869E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   4.0001869E-03
+  
+  Sending DOSE latitude =    73.9745170000000     
+  Sending DOSE longitude =    15.7023120000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.3975E+01  1.5702E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16949946184890     
+  Doserate calculation time in seconds.  3.9999485E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   3.9999485E-03
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   3.9999485E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
+  
+  Sending DOSE latitude =    73.7775010000000     
+  Sending DOSE longitude =    14.8387360000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.3778E+01  1.4839E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16893228966155     
   Doserate calculation time in seconds.  3.9999485E-03
  TIME BEFORE CALLING DOSE WAS   3.9999485E-03
    TIME FOR DATE WAS   0.0000000E+00
@@ -6356,65 +5439,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    125.000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    73.5820430000000     
+  Sending DOSE longitude =    13.9749280000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
+  GCR time in seconds.   4.0001869E-03
   FORBUSH time in seconds.   0.0000000E+00
- Finished:   4.6000E+01  6.0000E+01  1.2500E+02  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    4.00076671137087     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    200.000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   0.0000000E+00
- Finished:   4.6000E+01  6.0000E+01  2.0000E+02  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    3.17308839660030     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   7.9998970E-03
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   7.9998970E-03
-  
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    300.000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   4.6000E+01  6.0000E+01  3.0000E+02  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is    2.03419161977991     
+ Finished:   7.3582E+01  1.3975E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16836960266445     
   Doserate calculation time in seconds.  8.0001354E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -6425,19 +5462,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   8.0001354E-03
   
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    500.000000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    73.3880370000000     
+  Sending DOSE longitude =    13.1109020000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   4.6000E+01  6.0000E+01  5.0000E+02  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is   0.684125325545444     
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.3388E+01  1.3111E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16781109570349     
   Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -6448,363 +5485,203 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    46.0000000000000     
-  Sending DOSE longitude =    60.0000000000000     
-  Sending DOSE altitude =    1000.00000000000     
-  Sending DOSE date and time =    1998.20273972603     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   4.6000E+01  6.0000E+01  1.0000E+03  1.9982E+03   1   4   0   0
-  Adjusted Dose of type            1  is   2.048968810490265E-002
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
- COMMENT OR IMPROPER FORMAT FOR DATA AT LINE:          127 IN PLACES.DAT
- C, AIR-2 NEUTRON FLUX MEASUREMENTS                          
- TIME BEFORE CALLING DOSE WAS  -1.2000084E-02
-   TIME FOR DATE WAS  -1.2000084E-02
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   0.0000000E+00
-  
-  Sending DOSE latitude =    53.9000000000000     
-  Sending DOSE longitude =   -117.200000000000     
-  Sending DOSE altitude =    56.0000000000000     
-  Sending DOSE date and time =    1997.44931506849     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999962E-02
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   5.3900E+01  2.4280E+02  5.6000E+01  1.9974E+03   1   4   0   0
-  Adjusted Dose of type            1  is    9.01456754116110     
-  Doserate calculation time in seconds.  5.2000046E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   5.2000046E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   5.2000046E-02
-  
-  Sending DOSE latitude =    18.5000000000000     
-  Sending DOSE longitude =   -127.200000000000     
-  Sending DOSE altitude =    53.5000000000000     
-  Sending DOSE date and time =    1997.44383561644     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   1.8500E+01  2.3280E+02  5.3500E+01  1.9974E+03   1   4   0   0
-  Adjusted Dose of type            1  is    1.31868778387517     
-  Doserate calculation time in seconds.  1.1999846E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.1999846E-02
-  
-  Sending DOSE latitude =    55.6000000000000     
-  Sending DOSE longitude =   -120.600000000000     
-  Sending DOSE altitude =    101.000000000000     
-  Sending DOSE date and time =    1997.44931506849     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   5.5600E+01  2.3940E+02  1.0100E+02  1.9974E+03   1   4   0   0
-  Adjusted Dose of type            1  is    8.84845467070640     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    37.6000000000000     
-  Sending DOSE longitude =   -122.300000000000     
-  Sending DOSE altitude =    201.000000000000     
-  Sending DOSE date and time =    1997.44383561644     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   1.2000084E-02
- Finished:   3.7600E+01  2.3770E+02  2.0100E+02  1.9974E+03   1   4   0   0
-  Adjusted Dose of type            1  is    3.48809363014624     
-  Doserate calculation time in seconds.  1.6000032E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.6000032E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
- COMMENT OR IMPROPER FORMAT FOR DATA AT LINE:          132 IN PLACES.DAT
- C A Balloon flight over Ft. Churchill                       
- TIME BEFORE CALLING DOSE WAS  -1.6000032E-02
-   TIME FOR DATE WAS  -1.6000032E-02
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.6000032E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   0.0000000E+00
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    306.822300000000     
-  Sending DOSE date and time =    1965.58904109589     
+  Sending DOSE latitude =    73.1953810000000     
+  Sending DOSE longitude =    12.2466730000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
   Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   1.6000032E-02
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  3.0682E+02  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    4.46611004254254     
-  Doserate calculation time in seconds.  2.8000116E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   7.3195E+01  1.2247E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16779864599353     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   2.8000116E-02
+ TIME IN DOSE WAS   8.0001354E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   3.2000065E-02
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    243.120700000000     
-  Sending DOSE date and time =    1965.58904109589     
+  Sending DOSE latitude =    73.0039740000000     
+  Sending DOSE longitude =    11.3822560000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.3004E+01  1.1382E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16742515208742     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
+  
+  Sending DOSE latitude =    72.8137190000000     
+  Sending DOSE longitude =    10.5176650000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.2814E+01  1.0518E+01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16722458404085     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    72.6245210000000     
+  Sending DOSE longitude =    9.65291300000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.2625E+01  9.6529E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16705248512717     
+  Doserate calculation time in seconds.  3.9999485E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   3.9999485E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   3.9999485E-03
+  
+  Sending DOSE latitude =    72.4362860000000     
+  Sending DOSE longitude =    8.78801400000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.2436E+01  8.7880E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16651059179451     
+  Doserate calculation time in seconds.  3.9999485E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   3.9999485E-03
+ TIME IN DOSE WAS   3.9999485E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
+  
+  Sending DOSE latitude =    72.2489210000000     
+  Sending DOSE longitude =    7.92298200000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.2249E+01  7.9230E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16597120302617     
+  Doserate calculation time in seconds.  4.0001869E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   3.9999485E-03
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   4.0001869E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    72.0623370000000     
+  Sending DOSE longitude =    7.05783100000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
   Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  2.4312E+02  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    6.64832024787328     
-  Doserate calculation time in seconds.  1.1999846E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   3.9999485E-03
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    191.227300000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  1.9123E+02  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    8.59235597906779     
-  Doserate calculation time in seconds.  1.2000084E-02
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.2062E+01  7.0578E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16543406260741     
+  Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
+ TIME IN DOSE WAS   7.9998970E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    150.377500000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  1.5038E+02  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    10.8332194692298     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   3.9999485E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    118.256500000000     
-  Sending DOSE date and time =    1965.58904109589     
+  Sending DOSE latitude =    71.8764450000000     
+  Sending DOSE longitude =    6.19257300000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
   Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   8.0001354E-03
- Finished:   6.4665E+01  2.1290E+02  1.1826E+02  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    12.8647066824623     
-  Doserate calculation time in seconds.  1.6000032E-02
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.1876E+01  6.1926E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16480999221486     
+  Doserate calculation time in seconds.  8.0001354E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.6000032E-02
+ TIME IN DOSE WAS   8.0001354E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    92.9961000000000     
-  Sending DOSE date and time =    1965.58904109589     
+  Sending DOSE latitude =    71.6911570000000     
+  Sending DOSE longitude =    5.32722200000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
   Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  9.2996E+01  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    15.3505889589199     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   3.9999485E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    73.1300000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  7.3130E+01  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    17.5795787675103     
-  Doserate calculation time in seconds.  1.1999846E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.1999846E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    57.5079000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  5.7508E+01  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    20.0294714887193     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   3.9999485E-03
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    45.2519000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   8.0001354E-03
- Finished:   6.4665E+01  2.1290E+02  4.5252E+01  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    22.4323141467813     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    28.1584000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  2.8158E+01  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    28.2304169710166     
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.1691E+01  5.3272E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16414323159094     
   Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   3.9999485E-03
    TIME FOR DATE WAS   0.0000000E+00
@@ -6815,10 +5692,10 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.1999846E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    17.6360000000000     
-  Sending DOSE date and time =    1965.58904109589     
+  Sending DOSE latitude =    71.5063870000000     
+  Sending DOSE longitude =    4.46179100000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
   Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
@@ -6826,215 +5703,261 @@
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  1.7636E+01  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    34.9091210339150     
-  Doserate calculation time in seconds.  1.1999846E-02
+ Finished:   7.1506E+01  4.4618E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16386568502705     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    71.3220490000000     
+  Sending DOSE longitude =    3.59629300000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.1322E+01  3.5963E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16373167261941     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
+  
+  Sending DOSE latitude =    71.1380580000000     
+  Sending DOSE longitude =    2.73074200000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.1138E+01  2.7307E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16351969640960     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
+  
+  Sending DOSE latitude =    70.9543310000000     
+  Sending DOSE longitude =    1.86515000000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   4.0001869E-03
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.0954E+01  1.8652E+00  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16302821180857     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    70.7707830000000     
+  Sending DOSE longitude =   0.999530000000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   7.0771E+01  9.9953E-01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16299044021863     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
+  
+  Sending DOSE latitude =    70.5873320000000     
+  Sending DOSE longitude =   0.133895000000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   7.0587E+01  1.3389E-01  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16258744390035     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    70.4038930000000     
+  Sending DOSE longitude =  -0.731742000000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   7.0404E+01  3.5927E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16178519316955     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
+  
+  Sending DOSE latitude =    70.2203840000000     
+  Sending DOSE longitude =   -1.59736800000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   4.0001869E-03
+ Finished:   7.0220E+01  3.5840E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16143967315309     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.2000084E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    70.0367210000000     
+  Sending DOSE longitude =   -2.46297000000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   7.0037E+01  3.5754E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16138950003315     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   3.9999485E-03
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    69.8528210000000     
+  Sending DOSE longitude =   -3.32853500000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.9853E+01  3.5667E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16102054426868     
+  Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   4.0001869E-03
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
+   TIME FOR ALT WAS   4.0001869E-03
+ TIME IN DOSE WAS   7.9998970E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    11.1159000000000     
-  Sending DOSE date and time =    1965.58904109589     
+  Sending DOSE latitude =    69.6685990000000     
+  Sending DOSE longitude =   -4.19405100000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   4.0001869E-03
+ Finished:   6.9669E+01  3.5581E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16036469095756     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   3.9999485E-03
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    69.4839720000000     
+  Sending DOSE longitude =   -5.05950400000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
   Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  1.1116E+01  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    41.2782646246215     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    11.1159000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  1.1116E+01  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    41.2782646246215     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   3.9999485E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    7.05960000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  7.0596E+00  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    47.4670970768199     
-  Doserate calculation time in seconds.  1.1999846E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999846E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.1999846E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    4.55090000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  4.5509E+00  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    53.0387998076764     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    2.97880000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  2.9788E+00  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    57.3502480939413     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   3.9999485E-03
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    1.97780000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          152
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  1.9778E+00  1.9656E+03 152   4   0   0
-  Adjusted Dose of type          152  is    61.4473891193978     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    306.822300000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9999485E-03
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  3.0682E+02  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    2.07417645919456     
-  Doserate calculation time in seconds.  1.5999794E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.5999794E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    243.120700000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  2.4312E+02  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    3.01425369928268     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    191.227300000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   8.0001354E-03
- Finished:   6.4665E+01  2.1290E+02  1.9123E+02  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    3.82009910903151     
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   6.9484E+01  3.5494E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.16012674717520     
   Doserate calculation time in seconds.  1.6000032E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -7045,42 +5968,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.6000032E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    150.377500000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
+  Sending DOSE latitude =    69.2988540000000     
+  Sending DOSE longitude =   -5.92488100000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  1.5038E+02  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    4.61311197216974     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    118.256500000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  1.1826E+02  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    5.26237130825654     
+ Finished:   6.9299E+01  3.5408E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15914916212638     
   Doserate calculation time in seconds.  1.1999846E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -7091,65 +5991,226 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.1999846E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    92.9961000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
+  Sending DOSE latitude =    69.1131580000000     
+  Sending DOSE longitude =   -6.79016900000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   4.0001869E-03
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.9113E+01  3.5321E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15852912408703     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.2000084E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    68.9267970000000     
+  Sending DOSE longitude =   -7.65535500000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   7.9998970E-03
+ Finished:   6.8927E+01  3.5234E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15817859745963     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.2000084E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    68.7396840000000     
+  Sending DOSE longitude =   -8.52042500000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.8740E+01  3.5148E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15756332214931     
+  Doserate calculation time in seconds.  1.1999846E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.1999846E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    68.5517270000000     
+  Sending DOSE longitude =   -9.38536600000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.8552E+01  3.5061E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15684152876340     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    68.3628370000000     
+  Sending DOSE longitude =   -10.2501650000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.8363E+01  3.4975E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15620590354991     
+  Doserate calculation time in seconds.  1.1999846E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.1999846E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    68.1729190000000     
+  Sending DOSE longitude =   -11.1148080000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.8173E+01  3.4889E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15602237033121     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   4.0001869E-03
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   4.0001869E-03
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    67.9818790000000     
+  Sending DOSE longitude =   -11.9792800000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   6.7982E+01  3.4802E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15580501966818     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.2000084E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    67.7896200000000     
+  Sending DOSE longitude =   -12.8435690000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.7790E+01  3.4716E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15607650014983     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   3.9999485E-03
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    67.5960420000000     
+  Sending DOSE longitude =   -13.7076590000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.7596E+01  3.4629E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15550848565397     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    67.4010450000000     
+  Sending DOSE longitude =   -14.5715360000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   3.9999485E-03
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  9.2996E+01  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    5.84462945805194     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    73.1300000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   3.9999485E-03
- Finished:   6.4665E+01  2.1290E+02  7.3130E+01  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    6.29788594804960     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   3.9999485E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   3.9999485E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000032E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    57.5079000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   8.0001354E-03
- Finished:   6.4665E+01  2.1290E+02  5.7508E+01  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    6.63160628426330     
+ Finished:   6.7401E+01  3.4543E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15516277217165     
   Doserate calculation time in seconds.  1.1999846E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -7160,19 +6221,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.1999846E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    45.2519000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
+  Sending DOSE latitude =    67.2045220000000     
+  Sending DOSE longitude =   -15.4351850000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   3.9997101E-03
- Finished:   6.4665E+01  2.1290E+02  4.5252E+01  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    6.88909505879807     
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.7205E+01  3.4456E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15462250610322     
   Doserate calculation time in seconds.  1.2000084E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -7183,180 +6244,180 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.2000084E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    28.1584000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
+  Sending DOSE latitude =    67.0063670000000     
+  Sending DOSE longitude =   -16.2985920000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  2.8158E+01  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    7.23375076352272     
-  Doserate calculation time in seconds.  1.5999794E-02
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.7006E+01  3.4370E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15398170400915     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   3.9999485E-03
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    66.8064690000000     
+  Sending DOSE longitude =   -17.1617410000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.6806E+01  3.4284E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15348400036337     
+  Doserate calculation time in seconds.  1.1999846E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.5999794E-02
+ TIME IN DOSE WAS   1.1999846E-02
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    17.6360000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
+  Sending DOSE latitude =    66.6047140000000     
+  Sending DOSE longitude =   -18.0246170000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
   FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  1.7636E+01  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    7.49993456266264     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   4.0001869E-03
+ Finished:   6.6605E+01  3.4198E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15248521133624     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   4.0001869E-03
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.2000084E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    66.4009850000000     
+  Sending DOSE longitude =   -18.8872040000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.6401E+01  3.4111E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15207958979607     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.2000084E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    66.1951580000000     
+  Sending DOSE longitude =   -19.7494850000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.6195E+01  3.4025E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15209737547591     
+  Doserate calculation time in seconds.  1.1999846E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.1999846E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    65.9871090000000     
+  Sending DOSE longitude =   -20.6114440000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.5987E+01  3.3939E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15194586211047     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    65.7767070000000     
+  Sending DOSE longitude =   -21.4730640000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.5777E+01  3.3853E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15108999055730     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   3.9999485E-03
+   TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
  TIME IN DOSE WAS   7.9998970E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    11.1159000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  1.1116E+01  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    7.72924240455255     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   4.0001869E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   4.0001869E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000271E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    11.1159000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9997101E-03
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  1.1116E+01  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    7.72924240455255     
-  Doserate calculation time in seconds.  1.5999794E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.5999794E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    7.05960000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  7.0596E+00  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    7.93679294907736     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    4.55090000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9997101E-03
- Finished:   6.4665E+01  2.1290E+02  4.5509E+00  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    8.12530000299039     
-  Doserate calculation time in seconds.  1.1999607E-02
- TIME BEFORE CALLING DOSE WAS   4.0001869E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   4.0001869E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999607E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    2.97880000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
+  Sending DOSE latitude =    65.5638150000000     
+  Sending DOSE longitude =   -22.3343280000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  2.9788E+00  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    8.28505915957220     
-  Doserate calculation time in seconds.  1.6000271E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.6000271E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.6000271E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    1.97780000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =          190
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  1.9778E+00  1.9656E+03 190   4   0   0
-  Adjusted Dose of type          190  is    8.44999776039077     
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.5564E+01  3.3767E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.15023755582941     
   Doserate calculation time in seconds.  1.2000084E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -7367,111 +6428,295 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.2000084E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    306.822300000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    65.3482930000000     
+  Sending DOSE longitude =   -23.1952170000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9997101E-03
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  3.0682E+02  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    3.30698533242286     
-  Doserate calculation time in seconds.  1.5999794E-02
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   6.5348E+01  3.3680E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14935807888709     
+  Doserate calculation time in seconds.  1.2000084E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.5999794E-02
+ TIME IN DOSE WAS   1.2000084E-02
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    243.120700000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    65.1299950000000     
+  Sending DOSE longitude =   -24.0557130000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9997101E-03
- Finished:   6.4665E+01  2.1290E+02  2.4312E+02  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    4.86383046694133     
-  Doserate calculation time in seconds.  7.9998970E-03
- TIME BEFORE CALLING DOSE WAS   4.0001869E-03
+  FORBUSH time in seconds.   7.9998970E-03
+ Finished:   6.5130E+01  3.3594E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14867557563827     
+  Doserate calculation time in seconds.  1.1999846E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   4.0001869E-03
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.1999846E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    64.9087660000000     
+  Sending DOSE longitude =   -24.9157960000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   4.0001869E-03
+ Finished:   6.4909E+01  3.3508E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14817979228748     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   3.9999485E-03
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    64.6844490000000     
+  Sending DOSE longitude =   -25.7754480000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.4684E+01  3.3422E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14766812961617     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   3.9999485E-03
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    64.4568760000000     
+  Sending DOSE longitude =   -26.6346480000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.4457E+01  3.3337E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14713972524777     
+  Doserate calculation time in seconds.  1.1999846E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.1999846E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    64.2258730000000     
+  Sending DOSE longitude =   -27.4933740000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.4226E+01  3.3251E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14667382217686     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
+  
+  Sending DOSE latitude =    63.9912580000000     
+  Sending DOSE longitude =   -28.3516050000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.3991E+01  3.3165E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14602470568090     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   3.9999485E-03
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   7.9998970E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    63.7528410000000     
+  Sending DOSE longitude =   -29.2093180000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   4.0001869E-03
+ Finished:   6.3753E+01  3.3079E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14544447319241     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.2000084E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    63.5104210000000     
+  Sending DOSE longitude =   -30.0664890000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.3510E+01  3.2993E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14488746808788     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.2000084E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    63.2637880000000     
+  Sending DOSE longitude =   -30.9230930000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   0.0000000E+00
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.3264E+01  3.2908E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14487794330514     
+  Doserate calculation time in seconds.  7.9998970E-03
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
  TIME IN DOSE WAS   7.9998970E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    191.227300000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    63.0127200000000     
+  Sending DOSE longitude =   -31.7791050000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   3.9997101E-03
- Finished:   6.4665E+01  2.1290E+02  1.9123E+02  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    6.19823080682909     
-  Doserate calculation time in seconds.  1.1999607E-02
- TIME BEFORE CALLING DOSE WAS   4.0001869E-03
-   TIME FOR DATE WAS   4.0001869E-03
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.3013E+01  3.2822E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14428287845256     
+  Doserate calculation time in seconds.  1.2000084E-02
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999607E-02
+   TIME FOR ALT WAS   3.9999485E-03
+ TIME IN DOSE WAS   1.2000084E-02
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
+ TIME ON THIS LINE DATA WAS   1.6000032E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    150.377500000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    62.7569860000000     
+  Sending DOSE longitude =   -32.6344980000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  1.5038E+02  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    7.51092435228599     
-  Doserate calculation time in seconds.  1.2000084E-02
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.2757E+01  3.2737E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14336859305647     
+  Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
+ TIME IN DOSE WAS   7.9998970E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    118.256500000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    62.4963400000000     
+  Sending DOSE longitude =   -33.4892440000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   3.9997101E-03
- Finished:   6.4665E+01  2.1290E+02  1.1826E+02  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    8.48837823619878     
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.2496E+01  3.2651E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14254447289060     
   Doserate calculation time in seconds.  1.2000084E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -7482,134 +6727,111 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.2000084E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    92.9961000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    62.2305240000000     
+  Sending DOSE longitude =   -34.3433120000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  9.2996E+01  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    9.03840650922126     
-  Doserate calculation time in seconds.  1.2000084E-02
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.2231E+01  3.2566E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14162206135857     
+  Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
+ TIME IN DOSE WAS   7.9998970E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    73.1300000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    61.9592650000000     
+  Sending DOSE longitude =   -35.1966720000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  7.3130E+01  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    9.31169183514011     
-  Doserate calculation time in seconds.  8.0003738E-03
- TIME BEFORE CALLING DOSE WAS   3.9997101E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   3.9997101E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    57.5079000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  5.7508E+01  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    9.08798978268658     
-  Doserate calculation time in seconds.  1.2000084E-02
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.1959E+01  3.2480E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14080927951193     
+  Doserate calculation time in seconds.  7.9998970E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
+ TIME IN DOSE WAS   7.9998970E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
+ TIME ON THIS LINE DATA WAS   7.9998970E-03
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    45.2519000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    61.6822740000000     
+  Sending DOSE longitude =   -36.0492920000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  4.5252E+01  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    8.74159135729442     
-  Doserate calculation time in seconds.  1.2000084E-02
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.1682E+01  3.2395E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.14040288556332     
+  Doserate calculation time in seconds.  8.0001354E-03
+ TIME BEFORE CALLING DOSE WAS   3.9999485E-03
+   TIME FOR DATE WAS   3.9999485E-03
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   8.0001354E-03
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.2000084E-02
+  
+  Sending DOSE latitude =    61.3992460000000     
+  Sending DOSE longitude =   -36.9011360000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.1399E+01  3.2310E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.13937545389879     
+  Doserate calculation time in seconds.  1.1999846E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
+ TIME IN DOSE WAS   1.1999846E-02
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    28.1584000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    61.1098580000000     
+  Sending DOSE longitude =   -37.7521680000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   4.0001869E-03
-  FORBUSH time in seconds.   3.9997101E-03
- Finished:   6.4665E+01  2.1290E+02  2.8158E+01  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    7.48686133840159     
-  Doserate calculation time in seconds.  1.5999794E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.5999794E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.5999794E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    17.6360000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  1.7636E+01  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    6.15993023689956     
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   6.1110E+01  3.2225E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.13830527574259     
   Doserate calculation time in seconds.  1.2000084E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -7620,19 +6842,19 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.2000084E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    11.1159000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    60.8137680000000     
+  Sending DOSE longitude =   -38.6023510000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  1.1116E+01  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    5.03747530876711     
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.0814E+01  3.2140E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.13705873097997     
   Doserate calculation time in seconds.  1.2000084E-02
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
@@ -7643,118 +6865,49 @@
  TIME AFTER DOSE WAS   0.0000000E+00
  TIME ON THIS LINE DATA WAS   1.2000084E-02
   
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    11.1159000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
+  Sending DOSE latitude =    60.5106100000000     
+  Sending DOSE longitude =   -39.4516420000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
+  Sending DOSE gcr =            4
+  Sending DOSE test =            0
+  Sending DOSE superposition =            0
+  PreGCR time in DOSE in seconds.   0.0000000E+00
+  GCR time in seconds.   3.9999485E-03
+  FORBUSH time in seconds.   0.0000000E+00
+ Finished:   6.0511E+01  3.2055E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.13600749214943     
+  Doserate calculation time in seconds.  1.1999846E-02
+ TIME BEFORE CALLING DOSE WAS   0.0000000E+00
+   TIME FOR DATE WAS   0.0000000E+00
+   TIME FOR LAT WAS   0.0000000E+00
+   TIME FOR LON WAS   0.0000000E+00
+   TIME FOR ALT WAS   0.0000000E+00
+ TIME IN DOSE WAS   1.1999846E-02
+ TIME AFTER DOSE WAS   0.0000000E+00
+ TIME ON THIS LINE DATA WAS   1.1999846E-02
+  
+  Sending DOSE latitude =    60.2000000000000     
+  Sending DOSE longitude =   -40.3000000000000     
+  Sending DOSE altitude =    230.776987637081     
+  Sending DOSE date and time =    2017.32602739726     
+  Sending DOSE dosekind =          152
   Sending DOSE gcr =            4
   Sending DOSE test =            0
   Sending DOSE superposition =            0
   PreGCR time in DOSE in seconds.   0.0000000E+00
   GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  1.1116E+01  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    5.03747530876711     
-  Doserate calculation time in seconds.  1.2000084E-02
+  FORBUSH time in seconds.   3.9999485E-03
+ Finished:   6.0200E+01  3.1970E+02  2.3078E+02  2.0173E+03 152   4   0   0
+  Adjusted Dose of type          152  is    7.13515186101933     
+  Doserate calculation time in seconds.  8.0001354E-03
  TIME BEFORE CALLING DOSE WAS   0.0000000E+00
    TIME FOR DATE WAS   0.0000000E+00
    TIME FOR LAT WAS   0.0000000E+00
    TIME FOR LON WAS   0.0000000E+00
    TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
+ TIME IN DOSE WAS   8.0001354E-03
  TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    7.05960000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9997101E-03
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  7.0596E+00  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    4.17126124313115     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    4.55090000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  4.5509E+00  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    3.54565850238640     
-  Doserate calculation time in seconds.  1.6000271E-02
- TIME BEFORE CALLING DOSE WAS   3.9997101E-03
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   3.9997101E-03
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.6000271E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.9999981E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    2.97880000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   0.0000000E+00
-  FORBUSH time in seconds.   7.9998970E-03
- Finished:   6.4665E+01  2.1290E+02  2.9788E+00  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    3.12257888328059     
-  Doserate calculation time in seconds.  1.2000084E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.2000084E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.2000084E-02
-  
-  Sending DOSE latitude =    64.6649999758229     
-  Sending DOSE longitude =   -147.096666669473     
-  Sending DOSE altitude =    1.97780000000000     
-  Sending DOSE date and time =    1965.58904109589     
-  Sending DOSE dosekind =            1
-  Sending DOSE gcr =            4
-  Sending DOSE test =            0
-  Sending DOSE superposition =            0
-  PreGCR time in DOSE in seconds.   0.0000000E+00
-  GCR time in seconds.   3.9997101E-03
-  FORBUSH time in seconds.   4.0001869E-03
- Finished:   6.4665E+01  2.1290E+02  1.9778E+00  1.9656E+03   1   4   0   0
-  Adjusted Dose of type            1  is    2.79803028977597     
-  Doserate calculation time in seconds.  1.1999607E-02
- TIME BEFORE CALLING DOSE WAS   0.0000000E+00
-   TIME FOR DATE WAS   0.0000000E+00
-   TIME FOR LAT WAS   0.0000000E+00
-   TIME FOR LON WAS   0.0000000E+00
-   TIME FOR ALT WAS   0.0000000E+00
- TIME IN DOSE WAS   1.1999607E-02
- TIME AFTER DOSE WAS   0.0000000E+00
- TIME ON THIS LINE DATA WAS   1.1999607E-02
+ TIME ON THIS LINE DATA WAS   8.0001354E-03
   

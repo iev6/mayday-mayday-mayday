@@ -1,17 +1,20 @@
 from essentials import successResp, errorResp
 from rest_framework.parsers import JSONParser
+from rest_framework.decorators import api_view
 from django.shortcuts import render
 import json
 from dateutil import parser
 from  generatecords import generate
 import os
 
+@api_view(['POST'])
 def submit(request):
-	print request.META
+	print request.data
 	inputDict = request.data
 	generate(inputDict)
 	return successResp()
 
+@api_view(['GET'])
 def mainCord(request):
 	base_url = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 	os.system('./'+base_url+'/CARI_7_DVD/CARI7')
